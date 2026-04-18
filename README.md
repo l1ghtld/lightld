@@ -4,7 +4,7 @@
 
   
 
-  # 👋 Hi, I'm m1say!
+  # 👋 Hi, I'm Light!
 
   
 
@@ -15,7 +15,7 @@
 
   
 
-  **💙 Junior Java Developer | 🌙 Founder of LogDev Studio**
+  **💙 Junior Java Developer**
 
 
 
@@ -24,8 +24,6 @@
 ---
 
 ## 🚀 About Me
-
-💙 **Actively developing my studio [LogDev](https://t.me/logdevstudio)** — we specialize in creating Minecraft plugins and server builds
 
 🌑 **Passionate about Java** and building cool & interesting projects
 
@@ -38,7 +36,7 @@
 ## 🛠️ My Stack
 
 <div align="center">
-  <table>
+  <tr>
     <tr>
       <td><b>Main Language</b></td>
       <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
@@ -77,8 +75,6 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/LogDev_Studio-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/logdevstudio)
-
 [![YouTube](https://img.shields.io/badge/L1ght678-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@l1ght678)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/l1ghtld)
@@ -89,8 +85,6 @@
 
 <div align="center">
 
-  
-
-### 💬 "I'm on Discord - m1say.dev - Open to cooperation <3**
+### 💬 "I'm on Discord - l1ghtld - Open to cooperation <3"
 
 </div>
